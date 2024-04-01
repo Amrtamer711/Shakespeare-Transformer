@@ -73,6 +73,8 @@ STONE.
 You tore that hath us the will; poor youth,
 Your base label to mine once. Pity the shall
 Come again.
+# Resources:
+All necessary files such as paramteres, optimizer and scheduler are accessible [here](https://drive.google.com/drive/folders/1zlo9-kZu9F2_yjMHYHMatun9z84LKyZW) in the format [model]_[type].pt where model is the model name and type is either paramaters, optimizer or scheduler.
 
  [_Poor again._]
 
